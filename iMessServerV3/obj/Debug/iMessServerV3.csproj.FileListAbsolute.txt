@@ -1,0 +1,9 @@
+D:\Workspace\VisualProject\iMessV2\iMessServerV3\obj\Debug\iMessServerV3.csprojResolveAssemblyReference.cache
+D:\Workspace\VisualProject\iMessV2\iMessServerV3\obj\Debug\iMessServerV3.Main.resources
+D:\Workspace\VisualProject\iMessV2\iMessServerV3\obj\Debug\iMessServerV3.Properties.Resources.resources
+D:\Workspace\VisualProject\iMessV2\iMessServerV3\obj\Debug\iMessServerV3.csproj.GenerateResource.Cache
+D:\Workspace\VisualProject\iMessV2\iMessServerV3\bin\Debug\iMessServerV3.exe.config
+D:\Workspace\VisualProject\iMessV2\iMessServerV3\bin\Debug\iMessServerV3.exe
+D:\Workspace\VisualProject\iMessV2\iMessServerV3\bin\Debug\iMessServerV3.pdb
+D:\Workspace\VisualProject\iMessV2\iMessServerV3\obj\Debug\iMessServerV3.exe
+D:\Workspace\VisualProject\iMessV2\iMessServerV3\obj\Debug\iMessServerV3.pdb

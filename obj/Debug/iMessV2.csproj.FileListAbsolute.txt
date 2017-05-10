@@ -1,0 +1,9 @@
+D:\Workspace\VisualProject\iMessV2\bin\Debug\iMessV2.exe.config
+D:\Workspace\VisualProject\iMessV2\bin\Debug\iMessV2.exe
+D:\Workspace\VisualProject\iMessV2\bin\Debug\iMessV2.pdb
+D:\Workspace\VisualProject\iMessV2\obj\Debug\iMessV2.csprojResolveAssemblyReference.cache
+D:\Workspace\VisualProject\iMessV2\obj\Debug\iMessV2.iMess.resources
+D:\Workspace\VisualProject\iMessV2\obj\Debug\iMessV2.Properties.Resources.resources
+D:\Workspace\VisualProject\iMessV2\obj\Debug\iMessV2.csproj.GenerateResource.Cache
+D:\Workspace\VisualProject\iMessV2\obj\Debug\iMessV2.exe
+D:\Workspace\VisualProject\iMessV2\obj\Debug\iMessV2.pdb
